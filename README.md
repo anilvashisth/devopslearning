@@ -1,25 +1,22 @@
 DevOps is the combination of two Team i.e Development and Operations
+
 DevOps is the Combination of People, Process and Technology to Maximise Customer Satisfaction 
+Under Development: 
+Plan
+Code
+Build
+Test
 
-# Under Development: 
+Under OPerations:
+Release
+Deploy
+Operate
+Monitor
 
-Plan - Jira ,
-Code -      ,
-Build -     ,
-Test -      ,
-
-# Under OPerations:
-
-Release -       ,
-Deploy  -       ,
-Operate -       ,
-Monitor -       ,
-
-# Some Imp Point for DevOps:
-
-CI/CD,
-Agile Software Methodology,
-Version Control,
-Infrastructure as a Code,
-Configuration Mgmt,
-Continuous Monitoring,
+Some Imp Point for DevOps:
+CI/CD
+Agile Software Methodology
+Version Control
+Infrastructure as a Code
+Configuration Mgmt
+Continuous Monitoring
